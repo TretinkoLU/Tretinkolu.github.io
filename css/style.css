@@ -1,0 +1,136 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.navbar{
+	border-radius: 0;
+} 
+
+.navbar-custom{
+	background-color: #18631d;
+	border: none;
+}
+
+.navbar-inverse .navbar-toggle:focus, .navbar-inverse .navbar-toggle:hover{
+	background-color: transparent;
+}
+
+.navbar-brand{
+	color: #fff !important;
+}
+
+.main-section{
+	height: 100vh;
+	background-image: url('../original.jpg');
+	background-size: cover;
+	color: black;
+}
+
+.m-0{
+	margin: 0; 
+}
+
+.text-order{
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-bottom: 2%;
+	color: white;
+}
+
+.group-style{
+	height: 50px;
+}
+
+.container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	margin: 5%;
+}
+
+.flex-item{
+	width: 200px;
+	height: 100px;
+	background-color:navy;
+	margin: 2px;
+}
+
+.mySlides{
+	display:none
+}
+
+.demo{
+	cursor:pointer
+}
+
+.laptop{
+	padding-top: 20%;
+	padding-left: 2%;
+}
+
+.text-us{
+	margin-top: 10%;
+	margin-right: 2%;
+}
+
+.about{
+	height: 100vh;
+	background-image: url('../white-abstract.jpg');
+	background-size: cover;
+	color: black;
+}
+
+.why-we{
+	margin-top: 10%;
+	background-image: url('../white-green4.jpg');
+	color: black;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.gal-name{
+	margin-top: 4%;
+}
+
+.our-team{
+	padding-top: 2%;
+}
+
+.gal-text{
+	margin-bottom: 4%;
+}
+
+.picture{
+	width: 70%;
+	height: 10%;
+	margin-left: 20%;
+}
+
+.picture-two{
+	width: 150px;
+	height: 100px;
+}
+
+.production{
+	margin-top: 5%;
+}
+
+.main-text{
+	margin-top: 50%
+}
+
+.text-center{
+	margin-bottom: 5%;
+}
+
+.first-row{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 10%;
+}
+
+.galary{
+	width: 100%;
+	height: 10%;
+}
