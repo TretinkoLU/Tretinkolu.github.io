@@ -65,8 +65,7 @@
 }
 
 .laptop{
-	padding-top: 20%;
-	padding-left: 2%;
+	padding: 10%;
 }
 
 .text-us{
@@ -75,7 +74,6 @@
 }
 
 .about{
-	height: 100vh;
 	background-image: url('../white-abstract.jpg');
 	background-size: cover;
 	color: black;
@@ -99,12 +97,6 @@
 
 .gal-text{
 	margin-bottom: 4%;
-}
-
-.picture{
-	width: 70%;
-	height: 10%;
-	margin-left: 20%;
 }
 
 .picture-two{
