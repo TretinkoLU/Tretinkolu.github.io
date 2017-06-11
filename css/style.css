@@ -49,15 +49,30 @@
 	margin: 5%;
 }
 
-.flex-item{
-	width: 200px;
-	height: 100px;
-	background-color:navy;
-	margin: 2px;
+.team-pic{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+
+.text-about{
+	margin-top: 25%;
 }
 
 .mySlides{
 	display:none
+}
+
+.row-boto{
+	background-color: #18631d;
+	background-image: url('../white-green6.jpeg');
+	color: grey;
+	height: 70px;
+	font-family: verdana;
+}
+
+.vid-peop{
+
 }
 
 .demo{
@@ -80,11 +95,25 @@
 }
 
 .why-we{
-	margin-top: 10%;
+	margin-top: 4%;
 	background-image: url('../white-green4.jpg');
 	color: black;
 	background-repeat: no-repeat;
 	background-size: cover;
+	height: 100%;
+}
+.rew-pic{
+	height: 100px;
+	width: 100px;
+	margin: 100px;
+}
+
+.deep{
+	margin-bottom: 4%;
+}
+
+.diip{
+	margin-bottom: 20%;
 }
 
 .gal-name{
@@ -97,11 +126,6 @@
 
 .gal-text{
 	margin-bottom: 4%;
-}
-
-.picture-two{
-	width: 150px;
-	height: 100px;
 }
 
 .production{
@@ -122,7 +146,3 @@
 	margin-bottom: 10%;
 }
 
-.galary{
-	width: 100%;
-	height: 10%;
-}
